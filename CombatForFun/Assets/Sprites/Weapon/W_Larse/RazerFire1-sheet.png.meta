@@ -1,0 +1,1169 @@
+fileFormatVersion: 2
+guid: 2d14cf671093fb747bb6b4aa16b29f85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2178649695487372284
+    second: RazerFire1-sheet_0
+  - first:
+      213: 3079289202551919562
+    second: RazerFire1-sheet_1
+  - first:
+      213: -2980579587755644001
+    second: RazerFire1-sheet_2
+  - first:
+      213: 6651022267023939900
+    second: RazerFire1-sheet_3
+  - first:
+      213: -2713615938737002677
+    second: RazerFire1-sheet_4
+  - first:
+      213: 6150403433886254490
+    second: RazerFire1-sheet_5
+  - first:
+      213: -6636682711333731796
+    second: RazerFire1-sheet_6
+  - first:
+      213: 8140438619338126232
+    second: RazerFire1-sheet_7
+  - first:
+      213: -2886848541919327319
+    second: RazerFire1-sheet_8
+  - first:
+      213: -3228725748782583309
+    second: RazerFire1-sheet_9
+  - first:
+      213: -695943066041122567
+    second: RazerFire1-sheet_10
+  - first:
+      213: -8061325997457117628
+    second: RazerFire1-sheet_11
+  - first:
+      213: -724053226649844403
+    second: RazerFire1-sheet_12
+  - first:
+      213: 471712438939468622
+    second: RazerFire1-sheet_13
+  - first:
+      213: 1527704357758817364
+    second: RazerFire1-sheet_14
+  - first:
+      213: -4533867915015785361
+    second: RazerFire1-sheet_15
+  - first:
+      213: -161491687533202439
+    second: RazerFire1-sheet_16
+  - first:
+      213: -8216289545528783163
+    second: RazerFire1-sheet_17
+  - first:
+      213: -7808228471553121166
+    second: RazerFire1-sheet_18
+  - first:
+      213: -6040428823137176501
+    second: RazerFire1-sheet_19
+  - first:
+      213: 6199853251902994011
+    second: RazerFire1-sheet_20
+  - first:
+      213: 2029613443452850725
+    second: RazerFire1-sheet_21
+  - first:
+      213: 1033047489936119866
+    second: RazerFire1-sheet_22
+  - first:
+      213: 2542739128026724071
+    second: RazerFire1-sheet_23
+  - first:
+      213: -5579174238739958384
+    second: RazerFire1-sheet_24
+  - first:
+      213: 3572166217707175868
+    second: RazerFire1-sheet_25
+  - first:
+      213: -5532386636373236344
+    second: RazerFire1-sheet_26
+  - first:
+      213: 4531303232805832588
+    second: RazerFire1-sheet_27
+  - first:
+      213: -4616219826395128102
+    second: RazerFire1-sheet_28
+  - first:
+      213: 8405800177555655756
+    second: RazerFire1-sheet_29
+  - first:
+      213: -5383072845155037626
+    second: RazerFire1-sheet_30
+  - first:
+      213: -3566564205862129239
+    second: RazerFire1-sheet_31
+  - first:
+      213: 6439467951415721212
+    second: RazerFire1-sheet_32
+  - first:
+      213: -8003660139923379814
+    second: RazerFire1-sheet_33
+  - first:
+      213: -6260000936102256982
+    second: RazerFire1-sheet_34
+  - first:
+      213: 9101083369549129272
+    second: RazerFire1-sheet_35
+  - first:
+      213: -7321520897522820474
+    second: RazerFire1-sheet_36
+  - first:
+      213: 5861353832641909470
+    second: RazerFire1-sheet_37
+  - first:
+      213: 7507275018912706396
+    second: RazerFire1-sheet_38
+  - first:
+      213: -8337911997152306663
+    second: RazerFire1-sheet_0
+  - first:
+      213: 7410861053515636508
+    second: RazerFire1-sheet_1
+  - first:
+      213: 2940364393459461706
+    second: RazerFire1-sheet_2
+  - first:
+      213: 8798994488896662142
+    second: RazerFire1-sheet_3
+  - first:
+      213: -8369106897606777738
+    second: RazerFire1-sheet_4
+  - first:
+      213: 4895063381121893168
+    second: RazerFire1-sheet_5
+  - first:
+      213: 8117729525104849090
+    second: RazerFire1-sheet_6
+  - first:
+      213: 3843280728249610436
+    second: RazerFire1-sheet_7
+  - first:
+      213: -3385148508354073276
+    second: RazerFire1-sheet_8
+  - first:
+      213: 4828620071382234469
+    second: RazerFire1-sheet_9
+  - first:
+      213: -9006773262757324915
+    second: RazerFire1-sheet_10
+  - first:
+      213: 5592847650494258648
+    second: RazerFire1-sheet_11
+  - first:
+      213: -996053911236992339
+    second: RazerFire1-sheet_12
+  - first:
+      213: -6242089541746222127
+    second: RazerFire1-sheet_13
+  - first:
+      213: -7788272555894433693
+    second: RazerFire1-sheet_14
+  - first:
+      213: -2134180165982795864
+    second: RazerFire1-sheet_15
+  - first:
+      213: 2718521373735016439
+    second: RazerFire1-sheet_16
+  - first:
+      213: -2479489214521102648
+    second: RazerFire1-sheet_17
+  - first:
+      213: 5977517681192956602
+    second: RazerFire1-sheet_18
+  - first:
+      213: 2069868636486727870
+    second: RazerFire1-sheet_19
+  - first:
+      213: -6731683552178278220
+    second: RazerFire1-sheet_20
+  - first:
+      213: -4961193341571613721
+    second: RazerFire1-sheet_21
+  - first:
+      213: 6808204095485965169
+    second: RazerFire1-sheet_22
+  - first:
+      213: 9091746190084165923
+    second: RazerFire1-sheet_23
+  - first:
+      213: 5172120025869493326
+    second: RazerFire1-sheet_24
+  - first:
+      213: -8504419322235823773
+    second: RazerFire1-sheet_25
+  - first:
+      213: 833729248967251226
+    second: RazerFire1-sheet_26
+  - first:
+      213: 5442335700996382504
+    second: RazerFire1-sheet_27
+  - first:
+      213: -6547208670520390628
+    second: RazerFire1-sheet_28
+  - first:
+      213: -5040055929673114078
+    second: RazerFire1-sheet_29
+  - first:
+      213: 2742824276045610717
+    second: RazerFire1-sheet_30
+  - first:
+      213: 21641617722004350
+    second: RazerFire1-sheet_31
+  - first:
+      213: -7749008765710790538
+    second: RazerFire1-sheet_32
+  - first:
+      213: -1775315743712754235
+    second: RazerFire1-sheet_33
+  - first:
+      213: -5974556636957966340
+    second: RazerFire1-sheet_34
+  - first:
+      213: -6654931750977065773
+    second: RazerFire1-sheet_35
+  - first:
+      213: 4627415063698497780
+    second: RazerFire1-sheet_36
+  - first:
+      213: -3406406325995268321
+    second: RazerFire1-sheet_37
+  - first:
+      213: -2519622252026767501
+    second: RazerFire1-sheet_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RazerFire1-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ad449f639c94c80800000000000000
+      internalID: -8337911997152306663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f939e1ddaa8d660800000000000000
+      internalID: 7410861053515636508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4eab5e46d54ec820800000000000000
+      internalID: 2940364393459461706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a2e4b5ede4c1a70800000000000000
+      internalID: 8798994488896662142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67460e83e95fadb80800000000000000
+      internalID: -8369106897606777738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0330bc0c532cee340800000000000000
+      internalID: 4895063381121893168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c033965ef7f7a070800000000000000
+      internalID: 8117729525104849090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c03c63b573165530800000000000000
+      internalID: 3843280728249610436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dac9fed598501d0800000000000000
+      internalID: -3385148508354073276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5653f0e2f54b20340800000000000000
+      internalID: 4828620071382234469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d871ddcff63810380800000000000000
+      internalID: -9006773262757324915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd96925e49cd9d40800000000000000
+      internalID: 5592847650494258648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2a49bbe3e4d22f0800000000000000
+      internalID: -996053911236992339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db190042a4af59a0800000000000000
+      internalID: -6242089541746222127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3681dfbdf5f7ae390800000000000000
+      internalID: -7788272555894433693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a749e7427ed162e0800000000000000
+      internalID: -2134180165982795864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f758cb39c02ab520800000000000000
+      internalID: 2718521373735016439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ceae0042b5179dd0800000000000000
+      internalID: -2479489214521102648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab27f1a29a864f250800000000000000
+      internalID: 5977517681192956602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb87389ee86a9bc10800000000000000
+      internalID: 2069868636486727870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0f21ca9714492a0800000000000000
+      internalID: -6731683552178278220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb379df0fc462bb0800000000000000
+      internalID: -4961193341571613721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173fccdad899b7e50800000000000000
+      internalID: 6808204095485965169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3215aff5dfe5c2e70800000000000000
+      internalID: 9091746190084165923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44a2ada2cf07c740800000000000000
+      internalID: 5172120025869493326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3695a2d4fab3af980800000000000000
+      internalID: -8504419322235823773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15db8ba550029b00800000000000000
+      internalID: 833729248967251226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fd05e3c7f078b40800000000000000
+      internalID: 5442335700996382504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c464b1764a325a0800000000000000
+      internalID: -6547208670520390628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e9bb7d5df1e0ab0800000000000000
+      internalID: -5040055929673114078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde340f9528701620800000000000000
+      internalID: 2742824276045610717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e735fa8cfe2ec4000800000000000000
+      internalID: 21641617722004350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6709b66659df57490800000000000000
+      internalID: -7749008765710790538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5c7d3bcbfcc57e0800000000000000
+      internalID: -1775315743712754235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfffaaba46c161da0800000000000000
+      internalID: -5974556636957966340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc2b82f4dee4a3a0800000000000000
+      internalID: -6654931750977065773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f06a0cbb71e73040800000000000000
+      internalID: 4627415063698497780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1798629e730ab0d0800000000000000
+      internalID: -3406406325995268321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RazerFire1-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37756cb49e0880dd0800000000000000
+      internalID: -2519622252026767501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
